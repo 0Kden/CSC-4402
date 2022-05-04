@@ -11,6 +11,6 @@ resolution for students, librarians, and faculty members. In this project, we wa
 Management System that can help librarians maintain the database of new books and the books that users borrow along with
 their due dates. This system completely automates all your library's activities.
 
-### Project Name: Library Management System
-### DB: MySQL
-### DB Name: db_library
+#### Project Name: Library Management System
+#### DB: MySQL
+#### DB Name: db_library
